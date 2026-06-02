@@ -1,0 +1,3 @@
+# Google OR-Tools provides the CP-SAT solver; pytest runs the suite.
+ortools==9.15.6755
+pytest==9.0.3
