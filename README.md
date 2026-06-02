@@ -1,5 +1,7 @@
 # shift-scheduler-cpsat — a CP-SAT meeting scheduler that explains itself
 
+[![CI](https://github.com/SuperRedHat/shift-scheduler-cpsat/actions/workflows/ci.yml/badge.svg)](https://github.com/SuperRedHat/shift-scheduler-cpsat/actions/workflows/ci.yml)
+
 A small, runnable CP-SAT model that schedules multi-party meetings across
 timezones under working-hours / buffer / priority / no-double-booking
 constraints — and, when a set of calendars is **oversubscribed**, returns a
